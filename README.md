@@ -40,7 +40,7 @@ via Telegram Bot API.
 4. Run the simulation
 
 ## Demo
-[Add your Wokwi project share link here]
+[https://wokwi.com/projects/474044373895033857]
 
 ## Future Enhancements
 - Real hardware deployment with actual soil/rain sensors
