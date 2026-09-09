@@ -1,4 +1,4 @@
-# AI-Based Early Warning and Landslide Risk Monitoring System (NER)
+# IoT-based Early Warning and Landslide Risk Monitoring System (NER)
 
 ## Overview
 An IoT-based landslide early warning system simulated on Wokwi using ESP32.
